@@ -9,6 +9,7 @@ function setup() {
   //noLoop();
 
   dimension = 100;
+  frameRate(3);
 
   // start loading the next flag
   nextFlag();
